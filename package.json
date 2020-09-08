@@ -1,0 +1,21 @@
+{
+    "name": "justonedark",
+    "displayName": "justOneDark",
+    "description": "Just Black + One Dark Pro",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "justOneDark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/justOneDark-color-theme.json"
+            }
+        ]
+    }
+}
